@@ -12,12 +12,14 @@ Sell your product through shady contacts and black markets
 Balance money, risk, and reputation
 
 🇵🇱 Inspired by Real History
-The game draws inspiration from the underground economy of early 90s Poland:
-The fall of the PRL (People's Republic of Poland)
-The rise of entrepreneurship and post-communist chaos
-Aesthetic of concrete blocks, Trabants, and smuggled Western goods
+
+  The game draws inspiration from the underground economy of early 90s Poland:
+  The fall of the PRL (People's Republic of Poland)
+  The rise of entrepreneurship and post-communist chaos
+  Aesthetic of concrete blocks, Trabants, and smuggled Western goods
 
 🎮 Features (Planned)
+
 🔧 Modular distillation system (build your own stills)
 🕵️‍♂️ AI police patrols and suspicion meter
 🧑‍🤝‍🧑 Co-op mode (produce with a friend!)
@@ -25,6 +27,7 @@ Aesthetic of concrete blocks, Trabants, and smuggled Western goods
 💰 Buy parts, bribe officials, and manage your operation
 
 👨‍🔬 Built With
+
 Unity (URP)
 C#
 Blender (for models)
