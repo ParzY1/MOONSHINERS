@@ -54,7 +54,8 @@ Balance money, risk, and reputation.
 🚧 Status
 In development — currently prototyping core mechanics, player controller, and brewing system.
 
-🤝 Contributors
+🤝 Contributors:
+
 [ParzY, Ritkovsky] – Game Design, Programming.
 
 [Ritkovsky] – Art, Worldbuilding, Sound Design
