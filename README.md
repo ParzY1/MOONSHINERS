@@ -14,7 +14,7 @@ Sell your product through shady contacts and black markets.
 
 Balance money, risk, and reputation.
 
-🇵🇱 Inspired by Real History
+🔥 Inspired by Real History
 
   The game draws inspiration from the underground economy of early 90s Poland:
 
@@ -34,10 +34,13 @@ Balance money, risk, and reputation.
 
 👨‍🔬 Built With
 
-Unity (URP)
-C#
-Blender (for models)
-GitHub (for version control)
+Unity (URP).
+
+C#.
+
+Blender (for models).
+
+GitHub (for version control).
 
 🚧 Status
 In development — currently prototyping core mechanics, player controller, and brewing system.
