@@ -9,6 +9,7 @@ Brew and distill your own high-proof alcohol.
 Upgrade your equipment to increase production.
 
 Avoid nosy neighbors, the police, and government inspectors.
+
 Sell your product through shady contacts and black markets.
 
 Balance money, risk, and reputation.
@@ -18,16 +19,18 @@ Balance money, risk, and reputation.
   The game draws inspiration from the underground economy of early 90s Poland:
 
   The fall of the PRL (People's Republic of Poland).
+
   The rise of entrepreneurship and post-communist chaos.
+
   Aesthetic of concrete blocks, Trabants, and smuggled Western goods.
 
 🎮 Features (Planned)
 
-🔧 Modular distillation system (build your own stills)
-🕵️‍♂️ AI police patrols and suspicion meter
-🧑‍🤝‍🧑 Co-op mode (produce with a friend!)
-🗺️ Explore a small open-world town
-💰 Buy parts, bribe officials, and manage your operation
+🔧 Modular distillation system (build your own stills).
+🕵️‍♂️ AI police patrols and suspicion meter.
+🧑‍🤝‍🧑 Co-op mode (produce with a friend!).
+🗺️ Explore a small open-world town.
+💰 Buy parts, bribe officials, and manage your operation.
 
 👨‍🔬 Built With
 
