@@ -1,7 +1,8 @@
 # MOONSHINERS – A Polish Bootlegging Simulator
 Moonshine '90 is a first-person simulator game set in the gritty reality of post-communist Poland. It's the early 1990s – the People's Republic has fallen, capitalism is creeping in, and you're just a small-town hustler trying to make a living... by producing and distributing illegal alcohol.
 
-🥃 Game Concept
+🥃 Game Concept:
+
 You step into the worn-out shoes of a self-made moonshiner. Using homemade stills, rusty tools, and your wits, you'll need to:
 
 Brew and distill your own high-proof alcohol.
@@ -14,6 +15,7 @@ Sell your product through shady contacts and black markets.
 
 Balance money, risk, and reputation.
 
+
 🔥 Inspired by Real History
 
   The game draws inspiration from the underground economy of early 90s Poland:
@@ -24,23 +26,30 @@ Balance money, risk, and reputation.
 
   Aesthetic of concrete blocks, Trabants, and smuggled Western goods.
 
-🎮 Features (Planned)
 
-🔧 Modular distillation system (build your own stills).
-🕵️‍♂️ AI police patrols and suspicion meter.
-🧑‍🤝‍🧑 Co-op mode (produce with a friend!).
-🗺️ Explore a small open-world town.
-💰 Buy parts, bribe officials, and manage your operation.
+
+🎮 Features (Planned):
+
+    🔧 Modular distillation system (build your own stills).
+
+    🕵️‍♂️ AI police patrols and suspicion meter.
+
+    🧑‍🤝‍🧑 Co-op mode (produce with a friend!).
+
+    🗺️ Explore a small open-world town.
+
+    💰 Buy parts, bribe officials, and manage your operation.
+
 
 👨‍🔬 Built With
 
-Unity (URP).
+    Unity (URP).
 
-C#.
+    C#.
 
-Blender (for models).
+    Blender (for models).
 
-GitHub (for version control).
+    GitHub (for version control).
 
 🚧 Status
 In development — currently prototyping core mechanics, player controller, and brewing system.
